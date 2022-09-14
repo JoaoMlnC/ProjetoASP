@@ -50,3 +50,8 @@ C:\Users\logonrmlocal\Desktop\MVC_GerenciadorDeConteudo\MVC_GerenciadorDeConteud
 C:\Users\logonrmlocal\Desktop\MVC_GerenciadorDeConteudo\MVC_GerenciadorDeConteudo\obj\Debug\net6.0\MVC_GerenciadorDeConteudo.pdb
 C:\Users\logonrmlocal\Desktop\MVC_GerenciadorDeConteudo\MVC_GerenciadorDeConteudo\obj\Debug\net6.0\MVC_GerenciadorDeConteudo.genruntimeconfig.cache
 C:\Users\logonrmlocal\Desktop\MVC_GerenciadorDeConteudo\MVC_GerenciadorDeConteudo\obj\Debug\net6.0\ref\MVC_GerenciadorDeConteudo.dll
+C:\Users\logonrmlocal\Desktop\MVC_GerenciadorDeConteudo\MVC_GerenciadorDeConteudo\bin\Debug\net6.0\Business.dll
+C:\Users\logonrmlocal\Desktop\MVC_GerenciadorDeConteudo\MVC_GerenciadorDeConteudo\bin\Debug\net6.0\Database.dll
+C:\Users\logonrmlocal\Desktop\MVC_GerenciadorDeConteudo\MVC_GerenciadorDeConteudo\bin\Debug\net6.0\Business.pdb
+C:\Users\logonrmlocal\Desktop\MVC_GerenciadorDeConteudo\MVC_GerenciadorDeConteudo\bin\Debug\net6.0\Database.pdb
+C:\Users\logonrmlocal\Desktop\MVC_GerenciadorDeConteudo\MVC_GerenciadorDeConteudo\obj\Debug\net6.0\MVC_GerenciadorDeConteudo.csproj.CopyComplete

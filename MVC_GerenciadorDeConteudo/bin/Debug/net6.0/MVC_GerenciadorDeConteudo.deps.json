@@ -7,14 +7,40 @@
   "targets": {
     ".NETCoreApp,Version=v6.0": {
       "MVC_GerenciadorDeConteudo/1.0.0": {
+        "dependencies": {
+          "Business": "1.0.0"
+        },
         "runtime": {
           "MVC_GerenciadorDeConteudo.dll": {}
+        }
+      },
+      "Business/1.0.0": {
+        "dependencies": {
+          "Database": "1.0.0"
+        },
+        "runtime": {
+          "Business.dll": {}
+        }
+      },
+      "Database/1.0.0": {
+        "runtime": {
+          "Database.dll": {}
         }
       }
     }
   },
   "libraries": {
     "MVC_GerenciadorDeConteudo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Business/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Database/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

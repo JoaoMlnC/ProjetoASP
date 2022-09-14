@@ -1,0 +1,9 @@
+C:\Users\logonrmlocal\Desktop\MVC_GerenciadorDeConteudo\Business\bin\Debug\Business.dll
+C:\Users\logonrmlocal\Desktop\MVC_GerenciadorDeConteudo\Business\bin\Debug\Business.pdb
+C:\Users\logonrmlocal\Desktop\MVC_GerenciadorDeConteudo\Business\bin\Debug\Database.dll
+C:\Users\logonrmlocal\Desktop\MVC_GerenciadorDeConteudo\Business\bin\Debug\Database.pdb
+C:\Users\logonrmlocal\Desktop\MVC_GerenciadorDeConteudo\Business\obj\Debug\Business.csproj.AssemblyReference.cache
+C:\Users\logonrmlocal\Desktop\MVC_GerenciadorDeConteudo\Business\obj\Debug\Business.csproj.CoreCompileInputs.cache
+C:\Users\logonrmlocal\Desktop\MVC_GerenciadorDeConteudo\Business\obj\Debug\Business.csproj.CopyComplete
+C:\Users\logonrmlocal\Desktop\MVC_GerenciadorDeConteudo\Business\obj\Debug\Business.dll
+C:\Users\logonrmlocal\Desktop\MVC_GerenciadorDeConteudo\Business\obj\Debug\Business.pdb
